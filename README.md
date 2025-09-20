@@ -1,6 +1,6 @@
 # -News-App-Task
 # Features
-- Login page (no API integration).
+- Login page (no API integration)  with controlling Password Visibilty.
 - Get latest News  via NewsAPI.
 - Displays article title, description, image, and date.
 - Detail page with full content, image, and link to open article in browser.
